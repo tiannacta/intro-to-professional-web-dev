@@ -8,7 +8,7 @@ book.
 Concept checks
 --------------
 
-Many sections end with a "Check Your Understanding". This section is full of
+Many sections end with a "Check Your Understanding." This section is full of
 questions for you to double check that you understand the concepts in the
 reading. Although your score does not count towards your final grade in the
 class, you should use it to help evaluate your understanding of the main
@@ -41,7 +41,7 @@ account.
 Supplemental Content
 --------------------
 
-Occasionally, you will find a link to "Booster Rocket".
+Occasionally, you will find a link to "Booster Rockets."
 While not required reading, "Booster Rockets" can boost your learning.
 
 JavaScript in Context
