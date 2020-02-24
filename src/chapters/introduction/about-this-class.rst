@@ -5,7 +5,7 @@ About LaunchCode Programs
 Goals
 =====
 
-We want our programs to help you build your problem solving skills and
+We want our programs to help you build your problem-solving skills and
 encourage you to learn how to learn. Whether you use the coding skills you gain
 in this program to get a job as a developer is up to you. However, no matter
 the path you take after this program, learning how to learn will help you
