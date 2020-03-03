@@ -6,7 +6,7 @@ Programming Languages
    "Hey Siri, what movies are playing nearby?"
 
 Even though today's tech makes it seem like computers understand spoken
-language, the devices do not use English, Chinese, Spanish, etc. to carry out
+language, the devices do not use English, Chinese, Spanish, etc., to carry out
 their jobs. Instead, programmers must write their instructions in a form that
 computers understand.
 
@@ -87,7 +87,7 @@ but regardless of the opinions, one fact remains. Once you learn one language,
 learning the next is much, much easier. Adding a third becomes child's play.
 
 The reason for this is that thinking like a coder does not change with the
-language. Your logic, reasoning, and problem solving skills apply just as well
+language. Your logic, reasoning, and problem-solving skills apply just as well
 for JavaScript as they do for Python, Swift and C#. To display text on the
 screen in Python, we use ``print()``, for JavaScript we use ``console.log();``,
 for C# the command is ``Console.WriteLine();``. The *syntax* for each language
