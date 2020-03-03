@@ -26,7 +26,7 @@ Requesting Data
 .. index:: ! prompt
 
 To personalize the greeting, we have to get **input** from the user. This
-involves displaying a **prompt** on the screen (e.g. "Please enter a number:
+involves displaying a **prompt** on the screen (e.g., "Please enter a number:
 "), and then waiting for the user to respond. Whatever information the user
 enters gets stored for later use.
 
@@ -56,8 +56,8 @@ this bit of wisdom:
    I turn the key, and it goes.
 
 Most of us do not need to know all the details about how cars, phones, or
-microwave ovens work. We just know enough to interact with them in our day to
-day lives. Similarly, we do not need to understand how ``readline-sync`` works
+microwave ovens work. We just know enough to interact with them in our day-to-day lives. 
+Similarly, we do not need to understand how ``readline-sync`` works
 at this time. We just need to know enough to collect information from a user.
 
 As you move through the course, you WILL learn about all of the pieces that fit
@@ -150,11 +150,11 @@ prints their sum:
 Run the program, enter your choice of numbers, and examine the output. Do you
 see what you expected?
 
-If we enter ``7`` and ``2``, we expect an output of ``9``.  We do NOT expect
+If we enter ``7`` and ``2``, we expect an output of ``9``. We do NOT expect
 ``72``, but that is the result printed. What gives?!?!?
 
 The quirk with the ``input`` function is that it *treats all entries as
-strings*, so numbers get concatenated rather than added.  Just like
+strings*, so numbers get concatenated rather than added. Just like
 "Hello, " + "World" outputs as ``Hello, World``, "7" + "2" outputs as ``72``.
 
    JavaScript treats input entries as strings!
