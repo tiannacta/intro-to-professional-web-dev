@@ -70,5 +70,5 @@ character with the special representation ``\n``.
       console.log("Python\nJavaScript\nJava\nC#\nSwift");
 
 In addition to the newline character, there is also a special tab character,
-``\t``. Go back to the eight examples above and experiment with using ``\t``
+``\t``. Go back to the six examples above and experiment with using ``\t``
 and ``\n``.
