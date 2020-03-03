@@ -29,7 +29,7 @@ exercises:
      - Value
    * - Name of the space shuttle
      - Determination
-   * - Shuttle Speed (mph)
+   * - Shuttle speed (mph)
      - 17,500
    * - Distance to Mars (km)
      - 225,000,000
