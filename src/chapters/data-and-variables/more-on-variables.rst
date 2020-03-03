@@ -108,7 +108,7 @@ containing a space, JavaScript complains.
       SyntaxError: Unexpected identifier
 
 In this case, "identifier" is another term for variable name, so the error
-message is saying that the variable name is not valid, or is "unexpected".
+message is saying that the variable name is not valid, or is "unexpected."
 
 JavaScript provides a broad set of rules for naming variables, but there is no
 reason to go beyond a few easy-to-remember guidelines:
@@ -211,7 +211,7 @@ Any word that is formally part of the JavaScript language syntax is a keyword. S
 
 .. warning:: While ``console`` and ``console.log`` may seem like keywords, they are actually slightly different things. They are entities (an object and a function, respectively) that are available by default in most JavaScript environments.
 
-Attempting to use a keyword for anything other than it's intended use will result in an error. To see this, let's try to name a variable ``const``.
+Attempting to use a keyword for anything other than its intended use will result in an error. To see this, let's try to name a variable ``const``.
 
 .. admonition:: Example
 
